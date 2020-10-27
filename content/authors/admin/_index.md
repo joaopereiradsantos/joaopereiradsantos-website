@@ -14,27 +14,24 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/joao96santos
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/joaopereiradsantos
 organizations:
   - name: Amkor Technology
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MEng in Chemical Engineering - Processes and Product
+      institution: Faculty of Engineering of the University of Porto
+      year: 2020
+    - course: BSc in Engineering Sciences - Chemical Engineering
+      institution: Faculty of Engineering of the University of Porto
+      year: 2013
 email: ""
 superuser: true
 user_groups:

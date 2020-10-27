@@ -1,7 +1,7 @@
 ---
 title: João Santos
-role: Professor of Artificial Intelligence
-avatar_filename: perfil.jpg
+role: Data Analyst Trainee in Physical Failure Analysis and Reliability
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -22,7 +22,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
 organizations:
-  - name: Stanford University
+  - name: Amkor Technology
     url: ""
 education:
   courses:

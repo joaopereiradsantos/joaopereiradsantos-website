@@ -1,7 +1,7 @@
 ---
 title: João Santos
 role: Data Analyst Trainee in Physical Failure Analysis and Reliability
-avatar_filename: website.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

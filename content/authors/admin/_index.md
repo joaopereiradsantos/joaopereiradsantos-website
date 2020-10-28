@@ -23,7 +23,7 @@ social:
     link: https://github.com/joaopereiradsantos
 organizations:
   - name: Amkor Technology
-    url: ""
+    url: "https://amkor.com/"
 education:
   courses:
     - course: MEng in Chemical Engineering - Processes and Product

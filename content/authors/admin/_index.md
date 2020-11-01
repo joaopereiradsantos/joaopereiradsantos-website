@@ -40,8 +40,9 @@ highlight_name: false
 ---
 
 João Pereira dos Santos is a Chemical Engineer specialized in Processes and Product from FEUP.
+
 Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Control; Oil Refining and Petrochemistry; Industrial Informatics II; Entrepreneurship and Innovation; Engineering Project.
 
-During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: A group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; João was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: A practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
+During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and, was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
 
-As a pior Vice President and Sports & Culture Students' Union Leader, he ...
+As a Data Science Enthusiast, João 

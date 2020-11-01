@@ -20,27 +20,27 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Trainee"
+  title = "Product Engineering & Labs Trainee"
   company = "Amkor Technology"
-  company_url = ""
+  company_url = "https://amkor.com/"
   location = "Mindelo, Portugal"
   date_start = "2020-09-01"
   date_end = ""
-  description = """ """
+  description = """Data Analyst Trainee in Physical Failure Analysis and Reliability. """
 
   [[experience]]
-    title = "Master Thesis"
+    title = "Master Thesis Project"
     company = "Amkor Technology"
-    company_url = ""
+    company_url = "https://amkor.com/"
     location = "Mindelo, Portugal"
     date_start = "2020-02-01"
     date_end = "2020-07-01"
-    description = """ """
+    description = """Qualitative and Quantitative Statistical Analysis in Copper Electroplating Baths. """
 
 [[experience]]
   title = "Summer Research Internship"
   company = "Continental"
-  company_url = ""
+  company_url = "https://www.continental.com/"
   location = "Lousado, Portugal"
   date_start = "2019-08-01"
   date_end = "2019-09-01"

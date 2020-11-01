@@ -26,19 +26,19 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
+
   * Analysing
   * Modelling
   * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Summer Research Internship"
+  company = "Continental"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Lousado, Portugal"
+  date_start = "2019-08-01"
+  date_end = "2019-09-01"
+  description = """Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement.  """
 
 +++

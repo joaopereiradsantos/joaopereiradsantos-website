@@ -17,6 +17,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/joaopereiradsantos/
+  - icon: medium
+    icon_pack: fab
+    link: https://medium.com/@joaopereiradsantos
   - icon: github
     icon_pack: fab
     link: https://github.com/joaopereiradsantos
@@ -45,4 +48,4 @@ Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Con
 
 During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and, was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
 
-As a Data Science Enthusiast, João 
+As a Data Science Enthusiast, João

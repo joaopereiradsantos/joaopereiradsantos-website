@@ -2,12 +2,11 @@
 title: João Santos
 role: Data Analyst Trainee in Physical Failure Analysis and Reliability
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio:
 interests:
+  - Process Optimization
   - Machine Learning
   - Data Visualization
-  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +31,7 @@ education:
     - course: BSc in Engineering Sciences - Chemical Engineering
       institution: Faculty of Engineering of the University of Porto
       year: 2013
-email: ""
+email: "joaopereiradsantos@gmail.com"
 superuser: true
 user_groups:
   - Researchers
@@ -40,6 +39,9 @@ user_groups:
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+João Pereira dos Santos is a Chemical Engineer specialized in Processes and Product from FEUP.
+Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Control; Oil Refining and Petrochemistry; Industrial Informatics II; Entrepreneurship and Innovation; Engineering Project.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: A group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; João was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: A practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
+
+As a pior Vice President and Sports & Culture Students' Union Leader, he ...

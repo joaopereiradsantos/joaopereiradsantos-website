@@ -68,4 +68,4 @@ subtitle = ""
 +++
 
 <a class=”twitter-timeline” data-tweet-limit=”3″
-<a class="twitter-timeline" href="https://twitter.com/joao96santos?ref_src=twsrc%5Etfw">Tweets by joao96santos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+href="https://twitter.com/joao96santos">Tweets by joao96santos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

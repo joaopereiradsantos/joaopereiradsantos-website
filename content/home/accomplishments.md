@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "MOOC"
 subtitle = ""
 
 # Date format
@@ -21,31 +21,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "365 Data Science"
   organization_url = "https://365datascience.com/"
-  title = "The Data Science Course 2020: Complete Data Science Bootcamp"
+  title = "Complete 2020 Data Science Bootcamp"
   url = ""
   certificate_url = "https://www.udemy.com/certificate/UC-f9c36eed-31bd-4cb2-b665-bfb27f8b7e7b/"
   date_start = "2020-10-01"
   date_end = ""
-  description = ""
+  description = "Understanding of the Data Science field and the type of analysis carried out; Mathematics; Statistics; Python; Applying advanced statistical techniques in Python; Data Visualization; Machine Learning; Deep Learning.  "
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "Celonis"
+  organization_url = "https://www.celonis.com/"
+  title = "Process Mining Expert"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.linkedin.com/feed/update/urn:li:activity:6717847221150240769/"
+  date_start = "2020-11-01"
+  date_end = ""
+  description = "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions."
+
 
 +++

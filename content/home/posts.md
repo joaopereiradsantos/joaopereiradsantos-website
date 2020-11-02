@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<a class="twitter-timeline" href="https://twitter.com/joao96santos?ref_src=twsrc%5Etfw" data-tweet-limit="4">Tweets by joao96santos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/joao96santos?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by joao96santos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

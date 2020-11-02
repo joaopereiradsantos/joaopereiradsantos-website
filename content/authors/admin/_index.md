@@ -36,7 +36,7 @@ education:
       year: 2020
     - course: BSc in Engineering Sciences - Chemical Engineering
       institution: Faculty of Engineering of the University of Porto
-      year: 2013
+      year: 2018
 email: "joaopereiradsantos@gmail.com"
 superuser: true
 user_groups:
@@ -45,7 +45,7 @@ user_groups:
 highlight_name: false
 ---
 
-João Pereira dos Santos is a Chemical Engineer specialized in Processes and Product from FEUP.
+João Pereira dos Santos is a Chemical Engineer specialized in Processes and Product from Faculdade de Engenharia da Universidade do Porto (FEUP).
 
 During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
 

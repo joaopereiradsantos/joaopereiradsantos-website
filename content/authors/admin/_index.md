@@ -1,6 +1,6 @@
 ---
 title: João Santos
-role: Data Analyst Trainee in Physical Failure Analysis and Reliability
+role: T Data Analyst Trainee in Physical Failure Analysis and Reliability
 avatar_filename: avatar.jpg
 bio:
 interests:

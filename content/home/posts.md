@@ -67,4 +67,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<a class=”twitter-timeline” data-tweet-limit=”5″ href=”https://twitter.com/LeighCassell”>Tweets by LeighCassell</a> //platform.twitter.com/widgets.js
+<a class="twitter-timeline" href="https://twitter.com/joao96santos?ref_src=twsrc%5Etfw" data-tweet-limit="4">Tweets by joao96santos</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

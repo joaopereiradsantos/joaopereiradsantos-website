@@ -45,7 +45,7 @@ date_format = "Jan 2006"
     url = ""
     certificate_url = "https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199/"
     date_start = "2020-11-23"
-    date_end = "9.5h"
+    date_end = ""
     description = "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. "
 
 +++

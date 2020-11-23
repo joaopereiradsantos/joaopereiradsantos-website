@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
 title = "MOOC"
 subtitle = ""
@@ -38,5 +38,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions."
 
+  [[item]]
+    organization = "Jose Portilla, Pierian Data Inc."
+    organization_url = "https://www.pieriandata.com/"
+    title = "Interactive Python Dashboards with Plotly and Dash"
+    url = ""
+    certificate_url = "https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199/"
+    date_start = "2020-11-23"
+    date_end = ""
+    description = "Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. "
 
 +++

@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.udemy.com/certificate/UC-f9c36eed-31bd-4cb2-b665-bfb27f8b7e7b/"
   date_start = "2020-10-01"
   date_end = ""
-  description = "Understanding of the Data Science field and the type of analysis carried out; Mathematics; Statistics; Python; Applying advanced statistical techniques in Python; Data Visualization; Machine Learning; Deep Learning.  "
+  description = "Understanding of the Data Science field and the type of analysis carried out; Learn how to pre-process data; Understand the mathematics behind Machine Learning; Coding in Python and learn how to use it for statistical analysis; Perform linear and logistic regressions in Python; Carry out cluster and factor analysis; Create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn; Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlow; Unfold the power of deep neural networks; Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance; Apply your skills to real-life business cases. (29 Total Hours) "
 
 [[item]]
   organization = "Celonis"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = "https://www.linkedin.com/feed/update/urn:li:activity:6717847221150240769/"
   date_start = "2020-11-01"
   date_end = ""
-  description = "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions."
+  description = "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions. (30 Total Hours)"
 
   [[item]]
     organization = "Jose Portilla, Pierian Data Inc."
@@ -46,6 +46,6 @@ date_format = "Jan 2006"
     certificate_url = "https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199/"
     date_start = "2020-11-23"
     date_end = ""
-    description = "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. "
+    description = "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. (9.5 Total Hours) "
 
 +++

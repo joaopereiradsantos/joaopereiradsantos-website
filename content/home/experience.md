@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   location = "Mindelo, Portugal"
   date_start = "2020-09-01"
   date_end = "2021-01-11"
-  description ="""_Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
-  <br/>
+  description ="""_Physical Failure Analysis & Reliability Request Management Process Optimization Project:_\
+  <br>
   - Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
   - Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
   - Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
@@ -40,10 +40,9 @@ date_format = "Jan 2006"
     location = "Mindelo, Portugal"
     date_start = "2020-02-01"
     date_end = "2020-07-01"
-    description ="""_Qualitative and Quantitative Statistical Analysis in Copper Electroplating Baths:_
+    description ="""_Qualitative and Quantitative Statistical Analysis in Copper Electroplating Baths:_  
 
-    - Applying linear regression and correlation models (Pearson and Spearman) with R, Minitab and Excel, easing the decision-making process associated with the control of the main chemical components concentrations and total organic contaminations (TOC);
-    - Extract, Transform and Load (ETL) process applied to past manufacturing datasets, implemented on the Business Intelligence and Analytics software platform Microsoft Power BI, retrieving valuable insights."""
+    Applying linear regression and correlation models (Pearson and Spearman) with R, Minitab and Excel, easing the decision-making process associated with the control of the main chemical components concentrations and total organic contaminations (TOC); Extract, Transform and Load (ETL) process applied to past manufacturing datasets, implemented on the Business Intelligence and Analytics software platform Microsoft Power BI, retrieving valuable insights."""
 
 [[experience]]
   title = "Summer Research Internship"

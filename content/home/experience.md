@@ -25,15 +25,13 @@ date_format = "Jan 2006"
   company_url = "https://amkor.com/"
   location = "Mindelo, Portugal"
   date_start = "2020-09-01"
-  date_end = ""
-  description =
-  """
-  **Physical Failure Analysis & Reliability Request Management Process Optimization Project**
+  date_end = "2021-01-11"
+  description ="""**Physical Failure Analysis & Reliability Request Management Process Optimization Project**
+
 - Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
 - Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
 - Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
-- Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook.
-"""
+- Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook."""
 
   [[experience]]
     title = "Master Thesis Project"

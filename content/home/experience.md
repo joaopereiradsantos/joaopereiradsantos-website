@@ -1,4 +1,3 @@
-+++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -19,27 +18,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 
-[[experience]]
-  title = "Data Analyst Intern"
+experience:
+- title = "Data Analyst Intern"
   company = "Amkor Technology"
   company_url = "https://amkor.com/"
   location = "Mindelo, Portugal"
   date_start = "2020-09-01"
   date_end = "2021-01-11"
-  description ="""_Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
+  description = >-
+  _Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
 
-  - Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
-  - Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
-  - Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
-  - Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook."""
+  * Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
+  * Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
+  * Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
+  * Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook.
 
-[[experience]]
-  title = "Summer Research Intern"
+experience:
+- title = "Summer Research Intern"
   company = "Continental"
   company_url = "https://www.continental.com/"
   location = "Lousado, Portugal"
   date_start = "2019-08-01"
   date_end = "2019-09-01"
-  description = """_Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement._"""
-
-+++
+  description = '_Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement._'

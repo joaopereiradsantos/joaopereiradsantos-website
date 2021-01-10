@@ -33,17 +33,13 @@ experience:
   location: California
   title: CEO
 
-- company: GenCoin2
-  company_url: ""
-  date_end: ""
-  date_start: "2018-01-01"
-  description: |-
-      Responsibilities include:
-      * Analysing
-      * Modelling
-      * Deploying
-    location: California
-    title: CEO
+- company: Continental
+  company_url: "https://www.continental.com/"
+  date_end: "2019-09-01"
+  date_start: "2019-08-01"
+  description: _Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement._
+  location: Lousado, Portugal
+  title: Summer Research Intern
 
 - company: University X
   company_url: ""

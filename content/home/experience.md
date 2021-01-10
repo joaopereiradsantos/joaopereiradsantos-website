@@ -43,7 +43,7 @@ experience:
       * Modelling
       * Deploying
     location: California
-    title: CEO
+    title: CEO2
 
 - company: University X
   company_url: ""

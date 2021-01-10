@@ -1,43 +1,43 @@
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: experience
+# Activate this widget? true/false
+active: true
+# This file represents a page section.
+headless: true
+# Order that this section appears on the page.
+weight: 30
 
-title = "Experience"
-subtitle = ""
-
-# Date format for experience
+title: Experience
+subtitle:
+# Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-
+#   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- title = "Data Analyst Intern"
-  company = "Amkor Technology"
-  company_url = "https://amkor.com/"
-  location = "Mindelo, Portugal"
-  date_start = "2020-09-01"
-  date_end = "2021-01-11"
-  description = >-
-  _Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
+- company: GenCoin
+  company_url: ""
+  date_end: ""
+  date_start: "2017-01-01"
+  description: |-
+    Responsibilities include:
+    * Analysing
+    * Modelling
+    * Deploying
+  location: California
+  title: CEO
 
-  * Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
-  * Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
-  * Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
-  * Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook.
-
-experience:
-- title = "Summer Research Intern"
-  company = "Continental"
-  company_url = "https://www.continental.com/"
-  location = "Lousado, Portugal"
-  date_start = "2019-08-01"
-  date_end = "2019-09-01"
-  description = '_Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement._'
+- company: University X
+  company_url: ""
+  date_end: "2016-12-31"
+  date_start: "2016-01-01"
+  description: Taught electronic engineering and researched semiconductor physics.
+  location: California
+  title: Professor
+---

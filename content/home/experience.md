@@ -21,17 +21,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
-  company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
+- company: Amkor Technology
+  company_url: "https://amkor.com/"
+  date_end: "2021-01-11"
+  date_start: "2020-09-01"
   description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
+    _Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
+    * Applied DMAIC methodology (Define, Measure, Analyse, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
+    * Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
+    * Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
+    * Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook.
+  location: Mindelo, Portugal
+  title: Data Analyst Intern
 
 - company: Continental
   company_url: "https://www.continental.com/"

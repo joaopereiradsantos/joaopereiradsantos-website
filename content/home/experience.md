@@ -27,6 +27,7 @@ experience:
   date_start: "2020-09-01"
   description: |-
     _Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
+    <br />
     * Applied DMAIC methodology (Define, Measure, Analyse, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
     * Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
     * Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;

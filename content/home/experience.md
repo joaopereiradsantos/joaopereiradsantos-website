@@ -32,6 +32,8 @@ experience:
     * Deploying
   location: California
   title: CEO
+  title: CEO2
+  company: GenCoin
 
 - company: University X
   company_url: ""

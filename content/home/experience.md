@@ -34,6 +34,18 @@ experience:
   location: Mindelo, Portugal
   title: Data Analyst Intern
 
+- company: Amkor Technology
+  company_url: "https://amkor.com/"
+  date_end: "2020-02-01"
+  date_start: "2020-08-01"
+  description: |-
+    _Qualitative and Quantitative Statistical Analysis in Copper Electroplating Baths:_
+    * Applying linear regression and correlation models (Pearson and Spearman) with R, Minitab and Excel, easing the decision-making process associated with the control of the main chemical components concentrations and total organic contaminations (TOC);
+    * Extract, Transform and Load (ETL) process applied to past manufacturing datasets, implemented on the Business Intelligence and Analytics software platform Microsoft Power BI, retrieving valuable insights.
+  location: Mindelo, Portugal
+  title: Master Thesis Project
+
+
 - company: Continental
   company_url: "https://www.continental.com/"
   date_end: "2019-09-01"
@@ -42,11 +54,4 @@ experience:
   location: Lousado, Portugal
   title: Summer Research Intern
 
-- company: University X
-  company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
 ---

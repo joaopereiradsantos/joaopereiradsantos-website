@@ -32,8 +32,18 @@ experience:
     * Deploying
   location: California
   title: CEO
-  title: CEO2
-  company: GenCoin
+
+  - company: GenCoin
+    company_url: ""
+    date_end: "2017-01-03"
+    date_start: "2017-01-01"
+    description: |-
+      Responsibilities include:
+      * Analysing
+      * Modelling
+      * Deploying
+    location: California
+    title: CEO
 
 - company: University X
   company_url: ""

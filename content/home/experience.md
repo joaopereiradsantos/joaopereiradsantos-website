@@ -37,8 +37,8 @@ experience:
 
 - company: Amkor Technology
   company_url: "https://amkor.com/"
-  date_end: "2020-02-01"
-  date_start: "2020-08-01"
+  date_end: "2020-08-01"
+  date_start: "2020-02-01"
   description: |-
     _Qualitative and Quantitative Statistical Analysis in Copper Electroplating Baths:_
     * Applying linear regression and correlation models (Pearson and Spearman) with R, Minitab and Excel, easing the decision-making process associated with the control of the main chemical components concentrations and total organic contaminations (TOC);

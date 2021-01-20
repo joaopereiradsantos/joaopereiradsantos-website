@@ -1,61 +1,52 @@
-+++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: accomplishments
 
-title = "MOOC"
-subtitle = ""
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+title: Accomplishments
+subtitle:
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format: Jan 2006
 
 # Accomplishments.
-#   Add/remove as many `[[item]]` blocks below as you like.
+#   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://datacamp.com/"
-  title = "Data Analyst with SQL Server"
-  url = ""
-  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/track/5d8a94f52f3ebf9d42a8939a6f2c9266f2fb7cfa"
-  date_start = "2021-01-19"
-  date_end = ""
-  description = "Follows the curriculum for Microsoft certification exam 70-461: "Querying Microsoft SQL Server 2012/2014". Create Database Objects: Create and alter tables using T-SQL syntax, Create and alter views, Design views, Create and modify constraints, Create and alter DML triggers; Work With Data: Query data by using SELECT statements, Implement sub-queries, Implement data types, Implement aggregate queries, Query and manage XML data; Modify Data: Create and alter stored procedures, Modify data by using INSERT, UPDATE, and DELETE statements, Combine datasets, Work with functions; Troubleshoot And Optimize: Optimize queries, Manage transactions, Evaluate the use of row-based operations vs. set-based operations, Implement error handling (45 Total Hours)"
-
-[[item]]
-  organization = "365 Data Science"
-  organization_url = "https://365datascience.com/"
-  title = "Complete 2020 Data Science Bootcamp"
-  url = ""
-  certificate_url = "https://www.udemy.com/certificate/UC-f9c36eed-31bd-4cb2-b665-bfb27f8b7e7b/"
-  date_start = "2020-10-01"
-  date_end = ""
-  description = "Understanding of the Data Science field and the type of analysis carried out; Learn how to pre-process data; Understand the mathematics behind Machine Learning; Coding in Python and learn how to use it for statistical analysis; Perform linear and logistic regressions in Python; Carry out cluster and factor analysis; Create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn; Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlow; Unfold the power of deep neural networks; Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance; Apply your skills to real-life business cases. (29 Total Hours) "
-
-[[item]]
-  organization = "Celonis"
-  organization_url = "https://www.celonis.com/"
-  title = "Process Mining Expert"
-  url = ""
-  certificate_url = "https://www.linkedin.com/feed/update/urn:li:activity:6717847221150240769/"
-  date_start = "2020-11-01"
-  date_end = ""
-  description = "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions. (30 Total Hours)"
-
-  [[item]]
-    organization = "Jose Portilla, Pierian Data Inc."
-    organization_url = "https://www.pieriandata.com/"
-    title = "Interactive Python Dashboards with Plotly and Dash"
-    url = ""
-    certificate_url = "https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199/"
-    date_start = "2020-11-23"
-    date_end = ""
-    description = "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. (9.5 Total Hours) "
-
-+++
+#   You can begin a multiline `description` using YAML's `|-`.
+item:
+- certificate_url: https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199
+  date_end: ""
+  date_start: "2020-11-23"
+  description: "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. (9.5 Total Hours)"
+  organization: Jose Portilla, Pierian Data Inc.
+  organization_url: https://www.pieriandata.com/
+  title: Interactive Python Dashboards with Plotly and Dash
+  url: ""
+- certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2018-03-01"
+  description: Formulated informed blockchain models, hypotheses, and use cases.
+  organization: edX
+  organization_url: https://www.edx.org
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- certificate_url: https://www.datacamp.com
+  date_end: "2017-12-21"
+  date_start: "2017-07-01"
+  description: ""
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+  url: ""
+---

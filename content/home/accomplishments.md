@@ -26,13 +26,13 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5d8a94f52f3ebf9d42a8939a6f2c9266f2fb7cfa
-  date_end:
+  date_end: ""
   date_start: "2021-01-19"
   description: "Follows the curriculum for Microsoft certification exam 70-461: "Querying Microsoft SQL Server 2012/2014". Create Database Objects: Create and alter tables using T-SQL syntax, Create and alter views, Design views, Create and modify constraints, Create and alter DML triggers; Work With Data: Query data by using SELECT statements, Implement sub-queries, Implement data types, Implement aggregate queries, Query and manage XML data; Modify Data: Create and alter stored procedures, Modify data by using INSERT, UPDATE, and DELETE statements, Combine datasets, Work with functions; Troubleshoot And Optimize: Optimize queries, Manage transactions, Evaluate the use of row-based operations vs. set-based operations, Implement error handling. (45 Total Hours)"
   organization: DataCamp
   organization_url: https://datacamp.com/
   title: Data Analyst with SQL Server
-  url:
+  url: ""
 
 - certificate_url: https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199
   date_end:
@@ -59,5 +59,5 @@ item:
   organization: 265 Data Science
   organization_url: https://365datascience.com/
   title: 'Complete 2020 Data Science Bootcamp'
-  url: 
+  url:
 ---

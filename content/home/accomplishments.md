@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5d8a94f52f3ebf9d42a8939a6f2c9266f2fb7cfa
   date_end:
-  date_start: Jan 2021
+  date_start: "2021-01-19"
   description:
   organization: DataCamp
   organization_url: https://datacamp.com/

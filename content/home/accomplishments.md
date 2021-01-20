@@ -26,38 +26,38 @@ date_format: Jan 2006
 #   You can begin a multiline `description` using YAML's `|-`.
 item:
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/5d8a94f52f3ebf9d42a8939a6f2c9266f2fb7cfa
-  date_end: ""
+  date_end:
   date_start: "2021-01-19"
   description: "Follows the curriculum for Microsoft certification exam 70-461: "Querying Microsoft SQL Server 2012/2014". Create Database Objects: Create and alter tables using T-SQL syntax, Create and alter views, Design views, Create and modify constraints, Create and alter DML triggers; Work With Data: Query data by using SELECT statements, Implement sub-queries, Implement data types, Implement aggregate queries, Query and manage XML data; Modify Data: Create and alter stored procedures, Modify data by using INSERT, UPDATE, and DELETE statements, Combine datasets, Work with functions; Troubleshoot And Optimize: Optimize queries, Manage transactions, Evaluate the use of row-based operations vs. set-based operations, Implement error handling. (45 Total Hours)"
   organization: DataCamp
   organization_url: https://datacamp.com/
   title: Data Analyst with SQL Server
-  url: ""
+  url:
 
 - certificate_url: https://www.udemy.com/certificate/UC-9490005b-073c-40ff-9d8a-5f6cf7fdf199
-  date_end: ""
+  date_end:
   date_start: "2020-11-23"
   description: "Learn about Plotly to create plots like Bar Charts, Line Charts, Scatter Plots, Heat Maps, etc; Create Layouts with Plotly's Dash library; Use Dash to create interactive components with Plotly; Learn how to connect multiple inputs and outputs with a dashboard; Update live interactive graphs with clicks, hover overs, and more; Connect the interactive dashboard to live updating data for streaming information; Learn how to secure your interactive dashboards with App Authorization; Deploy your interactive dashboards to the internet with services like Heroku. (9.5 Total Hours)"
   organization: Jose Portilla, Pierian Data Inc.
   organization_url: https://www.pieriandata.com/
   title: Interactive Python Dashboards with Plotly and Dash
-  url: ""
+  url:
 
 - certificate_url: https://www.linkedin.com/feed/update/urn:li:activity:6717847221150240769
-  date_end: ""
+  date_end:
   date_start: "2020-11-01"
   description: "Data Engineer Trainning: Technically connect and maintain Celonis processes; Analyst Trainning: Translate data into actionable business insights. Create target oriented analyses to transform your business; Business User Trainning: Simplify your daily work. Get intelligent recommendations to execute the right actions. (30 Total Hours)"
   organization: Celonis
   organization_url: https://www.celonis.com
   title: "Process Mining Expert"
-  url: ""
+  url:
 
 - certificate_url: https://www.udemy.com/certificate/UC-f9c36eed-31bd-4cb2-b665-bfb27f8b7e7b/
-  date_end: ""
+  date_end:
   date_start: "2020-10-01"
   description: "Understanding of the Data Science field and the type of analysis carried out; Learn how to pre-process data; Understand the mathematics behind Machine Learning; Coding in Python and learn how to use it for statistical analysis; Perform linear and logistic regressions in Python; Carry out cluster and factor analysis; Create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn; Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlow; Unfold the power of deep neural networks; Improve Machine Learning algorithms by studying underfitting, overfitting, training, validation, n-fold cross validation, testing, and how hyperparameters could improve performance; Apply your skills to real-life business cases. (29 Total Hours) "
   organization: 265 Data Science
   organization_url: https://365datascience.com/
   title: 'Complete 2020 Data Science Bootcamp'
-  url: ""
+  url: 
 ---

@@ -23,8 +23,8 @@ date_format: Jan 2006
 experience:
 - company: Amazon
   company_url: "https://amazon.com/"
-  date_end: 
-  date_start: "2020-02-08"
+  date_end:
+  date_start: "2021-02-08"
   description: |-
     _Transportation & Supply Chain (EU IXD)_
   location: Luxembourg, Luxembourg

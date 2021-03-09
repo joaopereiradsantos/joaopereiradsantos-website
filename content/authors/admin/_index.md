@@ -4,10 +4,10 @@ role: Business Intelligence Intern in Transportation & Supply Chain (EU IXD)
 avatar_filename: avatar.jpg
 bio:
 interests:
-  - Data Mining
   - Process Optimization
   - Machine Learning
   - Data Visualization
+  - Data Mining
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,12 +46,12 @@ user_groups:
 highlight_name: false
 ---
 
-João Pereira dos Santos is a Chemical Engineer specialized in Processes and Product from Faculdade de Engenharia da Universidade do Porto (FEUP).
+João Pereira dos Santos is a **𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** specialized in **𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁** from Faculdade de Engenharia da Universidade do Porto (**𝗙𝗘𝗨𝗣**) currently working at **𝗔𝗺𝗮𝘇𝗼𝗻**, world's largest online marketplace, AI assistant provider, live-streaming platform and cloud computing platform as measured by revenue and market capitalization.
 
 During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
 
-As a Data Science enthusiast, João is intellectually curious and eager to learn and apply new Data-Oriented skill sets into daily challenges. During his Master Thesis Project regarding "Qualitative and Quantitative Analysis in Copper Electroplating Baths", KPIs for Chemical Process Control were implemented on a Microsoft Power BI Dashboard. He started competing in beginner Kaggle Competitions and participated on the 2020 EUREKAthon - Challenge Data for Zero Hunger: a data-driven competition that addresses societal issues associated with sustainable development goals.
+As a **𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲** enthusiast, João is intellectually curious and eager to learn and apply new Data-Oriented skill sets into daily challenges. During his **𝗠𝗮𝘀𝘁𝗲𝗿 𝗧𝗵𝗲𝘀𝗶𝘀** Project regarding _“Qualitative and Quantitative Analysis in Copper Electroplating Baths”_, KPIs for Chemical Process Control were implemented on a Microsoft Power BI Dashboard. He started competing in beginner Kaggle Competitions and participated on the 2020 EUREKAthon - Challenge Data for Zero Hunger: a data-driven competition that addresses societal issues associated with sustainable development goals. João currently works as a **𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 Intern** for the EU Inbound Cross Dock (IXD) Supply Chain and Transportation Team at **𝗔𝗺𝗮𝘇𝗼𝗻**.
 
 Highlighted Courses: Process Strategy and Optimization; Process Dynamics and Control; Oil Refining and Petrochemistry; Industrial Informatics II; Entrepreneurship and Innovation; Engineering Project.
 
-Highlighted MOOC: Complete Data Science Bootcamp 2020 by 365 Data Science; Process Mining Expert by Celonis.
+Highlighted Certifications &  MOOC: AWS Certified Cloud Practitioner; Data Analyst with SQL Server by DataCamp; Complete Data Science Bootcamp 2020 by 365 Data Science; Process Mining Expert by Celonis. 

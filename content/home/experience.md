@@ -21,6 +21,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
+- company: Amazon
+  company_url: "https://amazon.com/"
+  date_end: 
+  date_start: "2020-02-08"
+  description: |-
+    _Transportation & Supply Chain (EU IXD)_
+  location: Luxembourg, Luxembourg
+  title: Business Intelligence Intern
+
 - company: Amkor Technology
   company_url: "https://amkor.com/"
   date_end: "2021-01-11"

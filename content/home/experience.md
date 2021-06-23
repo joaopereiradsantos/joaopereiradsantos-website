@@ -26,7 +26,7 @@ experience:
   date_end:
   date_start: "2021-02-08"
   description: |-
-   <h6><span style="color:grey">Transportation & Supply Chain (EU IXD):</span></h6>
+   <font size="5"><span style="color:grey">**Transportation & Supply Chain (EU IXD):**</span></font>
    Placement Impact Calculator & Algorithm: Collaboration with the EU FC Launch SC Team on developing a heuristic programming approach and tool that can be accessed via a web interface to optimize secondary transfers. The user can input a source FC, ASIN, number of units to transfer and a destination FC (optional). The algorithm would quantify the impact on placement (Local-In-Stock (LIS) as a proxy metric) of a manual transfer and optimize it. The accuracy (F1-score) of the algorithm will be determined by how accurately we can forecast LIS offending units at an FC level for the next week versus preexisting models: Availability Transfers Logic (ATS) & ML Model (Decision Tree).
    Expected yearly savings of $ 1.25MM in transfer costs.
    (End to end algorithm and automation with AWS services like EC2 instances, SageMaker and Web Application with Elastic Beanstalk).

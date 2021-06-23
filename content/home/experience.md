@@ -93,7 +93,7 @@ experience:
   company_url: "https://www.continental.com/"
   date_end: "2019-09-01"
   date_start: "2019-08-01"
-  description: _Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement._
+  description: Antifoaming Agent Study for Process Optimization in DIP Content Tire Textile Reinforcement.
   location: Lousado, Portugal
   title: Summer Research Intern
 

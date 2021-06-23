@@ -27,6 +27,12 @@ experience:
   date_start: "2021-02-08"
   description: |-
     _Transportation & Supply Chain (EU IXD)_
+  <br />
+  * Placement Impact Calculator & Algorithm: Collaboration with the EU FC Launch SC Team on developing a heuristic programming approach and tool that can be accessed via a web interface to optimize secondary transfers. The user can input a source FC, ASIN, number of units to transfer and a destination FC (optional). The algorithm would quantify the impact on placement (Local-In-Stock (LIS) as a proxy metric) of a manual transfer and optimize it. The accuracy (F1-score) of the algorithm will be determined by how accurately we can forecast LIS offending units at an FC level for the next week versus preexisting models: Availability Transfers Logic (ATS) & ML Model (Decision Tree).
+
+  > Expected yearly savings of $ 1.25MM in transfer costs.
+  
+  (End to end algorithm and automation with AWS services like EC2 instances, SageMaker and Web Application with Elastic Beanstalk)
   location: Luxembourg, Luxembourg
   title: Business Intelligence Intern
 
@@ -37,7 +43,7 @@ experience:
   description: |-
     _Physical Failure Analysis & Reliability Request Management Process Optimization Project:_
     <br />
-    * Applied DMAIC methodology (Define, Measure, Analyse, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
+    * Applied DMAIC methodology (Define, Measure, Analyze, Improve, and Control) as a data-driven improvement cycle to clearly articulate the business problem, goal, potential resources, project scope, and high-level project timeline. Aimed at improving the Request Scheduling Efficiency by over 48% in a year;
     * Implemented and Tracked KPIs with Python: Pandas, Statsmodels, Seaborn and Plotly;
     * Semi-Automated a Relative Job Prioritization System with Excel: Power Query and VBA;
     * Dashboard Prototype with Python: Dash and User Adoption with a Macro-Enabled Workbook.

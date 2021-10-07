@@ -1,6 +1,6 @@
 ---
 title: João Santos
-role: Business Intelligence Intern in Transportation & Supply Chain (EU IXD)
+role: Business Intelligence Engineer in EU Supply Chain Analytics
 avatar_filename: avatar.jpg
 bio:
 interests:

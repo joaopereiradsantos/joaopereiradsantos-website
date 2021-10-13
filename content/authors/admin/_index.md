@@ -46,7 +46,7 @@ user_groups:
 highlight_name: false
 ---
 
-João Pereira dos Santos is a **𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** specialized in **𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁** from Faculdade de Engenharia da Universidade do Porto (**𝗙𝗘𝗨𝗣**) currently working at **𝗔𝗺𝗮𝘇𝗼𝗻**, world's largest online marketplace, AI assistant provider, live-streaming platform and cloud computing platform as measured by revenue and market capitalization.
+João Pereira dos Santos is a **𝗖𝗵𝗲𝗺𝗶𝗰𝗮𝗹 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** specialized in **𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗲𝘀 𝗮𝗻𝗱 𝗣𝗿𝗼𝗱𝘂𝗰𝘁** from Faculdade de Engenharia da Universidade do Porto (**𝗙𝗘𝗨𝗣**) currently working as a **𝗕𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿** for the EU Supply Chain Analytics Team at **𝗔𝗺𝗮𝘇𝗼𝗻** - world’s largest online marketplace, AI assistant provider, live-streaming platform and cloud computing platform as measured by revenue and market capitalization.
 
 During his degree, he won the 2018 Academic Games of Engineering by AEFEUP: a group project aiming at designing a continuous hydrothermal liquefaction (HTL) biomass processing unit for Paralab, SA; and was also 3x Team Leader at the European BEST Engineering Competition Challenge - Team Design: a practical test consisting on the construction of a prototype with limited materials and low cost to solve a proposed problem.
 

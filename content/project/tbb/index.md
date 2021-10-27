@@ -38,6 +38,7 @@ TBB is both a machine learning model ([Neural Network](https://en.wikipedia.org/
 
 The bot preprocesses both outputs and if the bet is considered valuable by over _n_ % (hyperparameter), an automated email is sent with informations regarding the tournament, players, predicted_odd and the maximal bookmaker_odd.
 
+
 ### Neural Network
 The model is trained on historical data as to optimize on prediction rates and to determine optimal feature weights.
 In order to further increase prediction accuracy, the Neural Network is trained specifically for the 3 main different surfaces, resulting in different feature weights per surface (clay, hard and grass courts).
@@ -47,9 +48,12 @@ Multiple features were considered for every player and match, such as: ATP Point
 ### OddsPortal
 [Oddsportal.com](https://www.oddsportal.com/) is a website containing both historical and future betting odds concerning a wide range of sports and boomakers.
 
+
+## Betting Strategy Analysis
+
 ![plt1](./pictures/plt1.png)
 
-
+![plt2](./pictures/plt2.png)
 
 
 Next steps consist in further financial analysis in production from October 2021 until the end of the current season and, if successful, an automated betting in 2022.

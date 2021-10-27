@@ -1,22 +1,23 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Tennis Betting Bot
+summary: Automated Web Scraper and Value Betting Algorithm
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Betting Bot
+- Web Scraping
+date: "2021-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Ryan Searle on Unsplash
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Private Repo
+  url: https://github.com/joaopereiradsantos/tennis-betting-bot
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +31,21 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Tennis Betting Bot
+TBB is an automated web scraping bot that scrapes both a Crystal Ball match probability forecast and 'oddsportal.com' next tennis matches for bookmaker odds.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The bot preprocesses both outputs and if the bet is considered valuable, an email is sent with informations regarding the players, crystal_ball_odd and bookmaker_odd.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Next steps consist in further financial analysis from October 2021 until the end of the current season and, if successful, an automated betting.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+AWS Production Environment
+EC2 Deployment
+TBB is currently in production using AWS Account: 100414530633 with EC2 Virtual Server in the Cloud (instance_id: i-04c2efda9adad398d). Fully managed by the repository owner, using EC2 tree tier t2.micro, 1GB RAM, 30GB EBS with Windows 10 and Task Scheduler running .bat file at a scheduled datetime (currently 2h interval).
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+T2 Instance & CPU Credit Management
+The t2 operates as a Burstable Performance Instances providing a baseline CPU performance under normal workload. But when the workload increases Burstable Performance Instances have the ability to burst, i.e. increase the CPU performance. CPU Credit regulates the amount CPU burst of an instance. You can spend this CPU Credit to increase the CPU performance during the Burst period. Suppose you are operating the instance at 100% of CPU performance for 5 minutes, you will spend 5(i.e. 5*1.0) CPU Credit. Similarly if you run an instance at 50% CPU performance for 5 minutes you will spend 2.5(i.e. 5*0.5) CPU Credits. CPU Credit Balance is simply the amount of CPU Credit available in your account at any moment.
+
+Since the t2.micro elavates the CPU Utilization up to 50-75% while running the script, a CPU Credit management system was developed in order to avoid null CPU Credit available at the scheduled time. The solution orchestrates two lambda functions: ec2-stop-instance and ec2-start-instance and the same two CloudWatch Rules. The above functions are set to trigger according to the following cron expressions: 30 */12 * * ? * (stop) and 35 */12 * * ? * (start) (5 minutes after stopping the instance).
+
+Contributing
+TBB is currently a closed source invitation only project.

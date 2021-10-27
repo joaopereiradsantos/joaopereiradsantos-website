@@ -39,15 +39,15 @@ TBB is both a machine learning model ([Neural Network](https://en.wikipedia.org/
 The bot preprocesses both outputs and if the bet is considered valuable by over _n_ % (hyperparameter), an automated email is sent with informations regarding the tournament, players, predicted_odd and the maximal bookmaker_odd.
 
 ### Neural Network
-The model is trained on the historical data so as to optimize on prediction rates and to determine optimal feature weights.
-In order to further increase prediction accuracy, the Neural Network is trained specifically for the 3 main different surfaces, resulting in different feature weights per surface (clay, hard, grass).
+The model is trained on historical data as to optimize on prediction rates and to determine optimal feature weights.
+In order to further increase prediction accuracy, the Neural Network is trained specifically for the 3 main different surfaces, resulting in different feature weights per surface (clay, hard and grass courts).
 
-Multiple feautures were implemented for every player, such as: ATP Points, H2H Wins, Recent Form by Surface, Tournament and Tournament Round, etc. In particular, the [Elo Ratings](https://en.wikipedia.org/wiki/Elo_rating_system) is one of the main contributors to the match prediction probability.
+Multiple features were considered for every player and match, such as: ATP Points, H2H Wins, Recent Form by Surface, Tournament and Tournament Round, etc. In particular, the [Elo Ratings](https://en.wikipedia.org/wiki/Elo_rating_system) is one of the main contributors to the match prediction probability.
 
 ### OddsPortal
 [Oddsportal.com](https://www.oddsportal.com/) is a website containing both historical and future betting odds concerning a wide range of sports and boomakers.
 
-
+![image info](./pictures/plt1.png)
 
 
 

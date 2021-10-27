@@ -46,15 +46,19 @@ In order to further increase prediction accuracy, the Neural Network is trained 
 Multiple features were considered for every player and match, such as: ATP Points, H2H Wins, Recent Form by Surface, Tournament and Tournament Round, etc. In particular, the [Elo Ratings](https://en.wikipedia.org/wiki/Elo_rating_system) is one of the main contributors to the match prediction probability.
 
 ### OddsPortal
-[Oddsportal.com](https://www.oddsportal.com/) is a website containing both historical and future betting odds concerning a wide range of sports and boomakers.
+[Oddsportal.com](https://www.oddsportal.com/) is a website containing both historical and future betting odds concerning a wide range of sports and bookmakers, including tennis. In order to leverage the highest possible match odd, [Selenium](https://www.selenium.dev/) is used to scrape every future tennis matches while a preprocessing function filters for the best available bookmaker. For further information on how to use Selenium with Python for browser automation projects, please refer to the following [documentation](https://www.selenium.dev/documentation/).
 
 
 ## Betting Strategy Analysis
+While most of the implementation is confidential, a financial simulation on over 2.000 matches from 2021 showcased a positive ROI. 6 betting strategies were tested, including: always betting on the favourite player, always betting on the underdog and a mix of the previous with valuable betting. 
+
+Value Bets are bets placed at odds that are higher than the predicted actual probability. The idea comes from the mathematical concept of Expected Value and is a long term betting strategy.
+
+By simulating multiple scenarios where we set a given _n_ % (_n_: how percentually higher is the bookmaker vs. the predicted probability), a _n_ ~ 7 % maximizes absolute profit.
 
 ![plt1](./pictures/plt1.png)
 
 ![plt2](./pictures/plt2.png)
-
 
 Next steps consist in further financial analysis in production from October 2021 until the end of the current season and, if successful, an automated betting in 2022.
 

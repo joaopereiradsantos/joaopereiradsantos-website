@@ -31,21 +31,26 @@ url_video: ""
 slides: example
 ---
 
-Tennis Betting Bot
-TBB is an automated web scraping bot that scrapes both a Crystal Ball match probability forecast and 'oddsportal.com' next tennis matches for bookmaker odds.
+# Tennis Betting Bot
+
+TBB is an automated web scraping bot that scrapes both a Crystal Ball match probability forecast and ‘oddsportal.com’ next tennis matches for bookmaker odds.
 
 The bot preprocesses both outputs and if the bet is considered valuable, an email is sent with informations regarding the players, crystal_ball_odd and bookmaker_odd.
 
 Next steps consist in further financial analysis from October 2021 until the end of the current season and, if successful, an automated betting.
 
-AWS Production Environment
-EC2 Deployment
-TBB is currently in production using AWS Account: 100414530633 with EC2 Virtual Server in the Cloud (instance_id: i-04c2efda9adad398d). Fully managed by the repository owner, using EC2 tree tier t2.micro, 1GB RAM, 30GB EBS with Windows 10 and Task Scheduler running .bat file at a scheduled datetime (currently 2h interval).
+## AWS Production Environment
+### EC2 Deployment
+TBB is currently in production using AWS Account with EC2 Virtual Server in the Cloud. Fully managed by the repository owner, using EC2 tree tier t2.micro, 1GB RAM, 30GB EBS with Windows 10 and Task Scheduler running .bat file at a scheduled datetime (currently 1h interval).
 
-T2 Instance & CPU Credit Management
-The t2 operates as a Burstable Performance Instances providing a baseline CPU performance under normal workload. But when the workload increases Burstable Performance Instances have the ability to burst, i.e. increase the CPU performance. CPU Credit regulates the amount CPU burst of an instance. You can spend this CPU Credit to increase the CPU performance during the Burst period. Suppose you are operating the instance at 100% of CPU performance for 5 minutes, you will spend 5(i.e. 5*1.0) CPU Credit. Similarly if you run an instance at 50% CPU performance for 5 minutes you will spend 2.5(i.e. 5*0.5) CPU Credits. CPU Credit Balance is simply the amount of CPU Credit available in your account at any moment.
+### T2 Instance & CPU Credit Management
+The t2 operates as a Burstable Performance Instances providing a baseline CPU performance under normal workload. But when the workload increases Burstable Performance Instances have the ability to burst, i.e. increase the CPU performance. CPU Credit regulates the amount CPU burst of an instance. You can spend this CPU Credit to increase the CPU performance during the Burst period. Suppose you are operating the instance at 100% of CPU performance for 5 minutes, you will spend 5(i.e. 5\*1.0) CPU Credit. Similarly if you run an instance at 50% CPU performance for 5 minutes you will spend 2.5(i.e. 5\*0.5) CPU Credits. CPU Credit Balance is simply the amount of CPU Credit available in your account at any moment. 
 
 Since the t2.micro elavates the CPU Utilization up to 50-75% while running the script, a CPU Credit management system was developed in order to avoid null CPU Credit available at the scheduled time. The solution orchestrates two lambda functions: ec2-stop-instance and ec2-start-instance and the same two CloudWatch Rules. The above functions are set to trigger according to the following cron expressions: 30 */12 * * ? * (stop) and 35 */12 * * ? * (start) (5 minutes after stopping the instance).
 
-Contributing
+## Contributing
 TBB is currently a closed source invitation only project.
+
+
+## License
+[MIT](https://choosealicense.com/licenses/apache-2.0/)

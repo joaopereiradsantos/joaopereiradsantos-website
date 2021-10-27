@@ -1,10 +1,6 @@
 ---
 title: João Santos
-<<<<<<< HEAD
 role: Business Intelligence Engineer, EU Supply Chain Analytics
-=======
-role: Business Intelligence Engineer in EU Supply Chain Analytics
->>>>>>> 0292657559eec93425c55bc30f0681a2d5a750a4
 avatar_filename: avatar.jpg
 bio:
 interests:

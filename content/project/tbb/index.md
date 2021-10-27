@@ -47,7 +47,7 @@ Multiple features were considered for every player and match, such as: ATP Point
 ### OddsPortal
 [Oddsportal.com](https://www.oddsportal.com/) is a website containing both historical and future betting odds concerning a wide range of sports and boomakers.
 
-![image info](./pictures/plt1.png)
+![plt1](./pictures/plt1.png)
 
 
 

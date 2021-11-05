@@ -28,7 +28,7 @@ experience:
   description: |-
    **Placement Impact Calculator & Algorithm:**
     - Development of a heuristic approach and tool that can be accessed via a web interface to optimize secondary transfers. The user can input a source FC, ASIN, number of units to transfer and a destination FC (optional). The algorithm would quantify the impact on placement (Local-In-Stock (LIS) as a proxy metric) of a manual transfer and optimize it. The accuracy (F1-score) of the algorithm will be determined by how accurately we can forecast LIS offending units at an FC level for the next week versus preexisting models: Availability Transfers Logic (ATS) & ML Model (Decision Tree);
-    - Expected yearly savings of $ 1.25MM in transfer costs;
+    - Expected yearly savings of $ [] MM in transfer costs;
     - End to end algorithm and automation with SQL Extract Jobs and AWS: EC2, SageMaker and Web Application Deployment with Elastic Beanstalk.
   location: London, United Kingdom
   title: Business Intelligence Engineer | Transportation & Supply Chain (EU SC FC Launch & Transfer Analytics)
@@ -40,7 +40,7 @@ experience:
   description: |-
     **Why Spread is Biased & How to Overcome it: Spread Bias:**
     - Development of a new metric: Spread Bias. A complementary metric to FC Spread (how many FCs on average an ASIN is sent to). Mathematically, it’s a weekly weighted average share of total volume cross-docked at each FC per ASIN. The more biased the volume is towards one particular FC, the more the spread bias will tend to 1. Reciprocally, the more evenly and the more FCs the volume is spread to, spread bias will tend towards 0;
-    - Spread Bias is 2x more correlated to deviations in Case Break than in FC Spread. Less Spread Bias leads to a more uniform FC level placement which, in turn, increases unique inventory and reduces the risk of TRB (constraint in outbound capacity);
+    - Spread Bias is [] x more correlated to deviations in Case Break than in FC Spread. Less Spread Bias leads to a more uniform FC level placement which, in turn, increases unique inventory and reduces the risk of TRB (constraint in outbound capacity);
     - Semi-Automated Jupyter Notebook Code & Markdown paper with interactive .html python code preview and Plotly graphs, Placement Impact bridge with Pearson Correlation Analysis and SQL script for production use.
 
     **ITS 2% Rule & Impact on Placement:**
@@ -50,7 +50,7 @@ experience:
 
     **Tote Utilization Dashboard:**
     - Tote Utilization dashboard and monitoring for the IXD Sr. Ops Managers & Area Managers. Aimed at knowledge sharing and improved users tote filling best practices in order to increase truck fill rate and tote optimization;
-    - Expected an increase of 2% in the weekly average tote utilization by IXD, leading to a yearly reduction of 1.5MM totes, 1k trucks, 800 tonnes of CO<sub>2</sub> emissions and $ 1MM in overall savings;
+    - Expected an increase of 2% in the weekly average tote utilization by IXD, leading to a yearly reduction of [] MM totes, 1k trucks, 800 tonnes of CO<sub>2</sub> emissions and $ 1MM in overall savings;
     - Data Pipeline between 2 AWS RedShift Clusters, Daily Maintenance of 6 Tables with SQL ETL Manager and AWS QuickSight.       
 
     **Arc Bin Level Forecast:**

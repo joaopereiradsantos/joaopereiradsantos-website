@@ -23,14 +23,21 @@ date_format: Jan 2006
 experience:
 - company: Amazon
   company_url: "https://amazon.com/"
-  date_end:
-  date_start: "2021-02-08"
+  date_end: 
+  date_start: "2021-11-01"
   description: |-
    **Placement Impact Calculator & Algorithm:**
-    - Collaboration with the EU FC Launch SC Team on developing a heuristic approach and tool that can be accessed via a web interface to optimize secondary transfers. The user can input a source FC, ASIN, number of units to transfer and a destination FC (optional). The algorithm would quantify the impact on placement (Local-In-Stock (LIS) as a proxy metric) of a manual transfer and optimize it. The accuracy (F1-score) of the algorithm will be determined by how accurately we can forecast LIS offending units at an FC level for the next week versus preexisting models: Availability Transfers Logic (ATS) & ML Model (Decision Tree);
+    - Development of a heuristic approach and tool that can be accessed via a web interface to optimize secondary transfers. The user can input a source FC, ASIN, number of units to transfer and a destination FC (optional). The algorithm would quantify the impact on placement (Local-In-Stock (LIS) as a proxy metric) of a manual transfer and optimize it. The accuracy (F1-score) of the algorithm will be determined by how accurately we can forecast LIS offending units at an FC level for the next week versus preexisting models: Availability Transfers Logic (ATS) & ML Model (Decision Tree);
     - Expected yearly savings of $ 1.25MM in transfer costs;
     - End to end algorithm and automation with SQL Extract Jobs and AWS: EC2, SageMaker and Web Application Deployment with Elastic Beanstalk.
+  location: London, United Kingdom
+  title: Business Intelligence Engineer | Transportation & Supply Chain (EU SC FC Launch & Transfer Analytics)
 
+- company: Amazon
+  company_url: "https://amazon.com/"
+  date_end: "2021-07-31"
+  date_start: "2021-02-08"
+  description: |-
     **Why Spread is Biased & How to Overcome it: Spread Bias:**
     - Development of a new metric: Spread Bias. A complementary metric to FC Spread (how many FCs on average an ASIN is sent to). Mathematically, it’s a weekly weighted average share of total volume cross-docked at each FC per ASIN. The more biased the volume is towards one particular FC, the more the spread bias will tend to 1. Reciprocally, the more evenly and the more FCs the volume is spread to, spread bias will tend towards 0;
     - Spread Bias is 2x more correlated to deviations in Case Break than in FC Spread. Less Spread Bias leads to a more uniform FC level placement which, in turn, increases unique inventory and reduces the risk of TRB (constraint in outbound capacity);

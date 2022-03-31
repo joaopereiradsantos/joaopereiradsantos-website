@@ -43,7 +43,7 @@ experience:
     - Spread Bias is [] x more correlated to deviations in Case Break than in FC Spread. Less Spread Bias leads to a more uniform FC level placement which, in turn, increases unique inventory and reduces the risk of TRB (constraint in outbound capacity);
     - Semi-Automated Jupyter Notebook Code & Markdown paper with interactive .html python code preview and Plotly graphs, Placement Impact bridge with Pearson Correlation Analysis and SQL script for production use.
 
-    **ITS 2% Rule & Impact on Placement:**
+    **[ITS 2% Rule & Impact on Placement](https://drive.corp.amazon.com/documents/mznjoao@/Archive/Docs/IXD%202%20%25%20Rule%20and%20Impact%20on%20Placement.pdf):**
     - Understanding of hard constrains in optimization models (SCOT heuristic approach to reduce latency of the request easing the algorithm decision time by removing the possibility of case break) and impact on placement and financial outcomes (spread, item selection, period 1/ period 2 AR share and misplacement volume);
     - Expected a yearly decrease of 4MM units in total cross-border fulfillment (CBF) by reduction in misplaced volume, 3x more item selection leading to higher LIS, higher inventory turns and 2x less Spread Bias;
     - Semi-Automated Jupyter Notebook Code & Markdown paper with interactive .html python code preview and interactive Plotly graphs.    
